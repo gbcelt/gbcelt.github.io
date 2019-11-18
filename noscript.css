@@ -1,0 +1,7 @@
+#email {
+    display: none;
+}
+
+.info-container {
+    transform: translateY(25%);
+}

@@ -26,7 +26,7 @@ img {
 }
 
 .info-container {
-    transform: translateY(25%);
+    transform: translateY(15%);
 }
 
 h1 {
@@ -43,7 +43,8 @@ h2 {
     margin: 0 0 10px 0;
 }
 
-.location {
+.contact > * {
+    display: block;
     margin-bottom: 5px;
 }
 
